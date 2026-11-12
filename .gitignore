@@ -1,2 +1,10 @@
 research/
 .DS_Store
+
+node_modules/
+dist/
+.sites-runtime/
+.wrangler/
+.vinext/
+.env*
+.dev.vars*

@@ -1,3 +1,17 @@
+# Pembaruan galeri, pendaftaran, dan pemesanan
+
+Pembaruan 12 November 2026. Bagian ini menggantikan batasan galeri/pendaftaran/pemesanan pada observasi awal di bawah.
+
+- Seluruh 58 foto dari 8 album galeri asli telah disalin menjadi aset lokal. Album: Field Trips (7), Check-up Dokter Gigi dan Umum (5), Pesta Budaya (10), New Year Party (8), Imlek (6), Kemerdekaan (6), Portofolio Anak (4), Science Camp (12).
+- Coba gratis, pendaftaran sekolah, dan pemesanan menyimpan data langsung ke database GPT Sites. Setiap permintaan mendapat nomor referensi dan status awal menunggu konfirmasi. Tidak ada jaminan penerimaan siswa atau slot otomatis.
+- Halaman status menampilkan permintaan milik akun sendiri; pengelola yang dikonfigurasi di server dapat melihat dan mengubah status. Tidak ada pemberian hak pengelola otomatis kepada pengunjung pertama.
+- Dokumen disimpan dalam penyimpanan privat GPT Sites (R2), dengan pemeriksaan hak akses pada setiap unggah/unduh. PDF/JPG/PNG maksimal 5 MB per berkas dan 10 berkas per permintaan.
+- Pengujian lokal: 22 pemeriksaan API lulus, mencakup autentikasi, isolasi data pengguna, pencegahan duplikasi, pendaftaran, pemesanan, konflik versi status, unggah/unduh dokumen. Browser: pendaftaran contoh berhasil tersimpan dan bertahan setelah muat ulang, pengelola dapat mengonfirmasi, filter album dan navigasi foto bekerja. Semua data uji bersifat contoh dan hanya berada pada database lokal.
+- Tidak ada gateway pembayaran, pemberitahuan email otomatis, atau integrasi kalender eksternal. Sekolah meninjau dan mengonfirmasi melalui halaman pengelolaan.
+- Audiens situs tetap privat sesuai pengaturan sebelumnya. Belum dibuka untuk calon orang tua umum.
+
+---
+
 # Observasi dan pembuatan ulang Sekolah Pelangi Indonesia
 
 Diamati 12 November 2026, Asia/Jakarta. Sumber: https://www.pi-education.com/ dan lima sitemap resmi Wix.
