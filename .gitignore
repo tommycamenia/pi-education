@@ -8,3 +8,5 @@ dist/
 .vinext/
 .env*
 .dev.vars*
+research-mobile/
+.next/

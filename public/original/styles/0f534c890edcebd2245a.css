@@ -1,0 +1,506 @@
+#n0x0u{width:auto;min-height:200px;}#pageBackground_n0x0u{--bg-position:absolute;--fill-layer-background-overlay-color:transparent;--fill-layer-background-overlay-position:absolute;--bg-overlay-color:rgb(var(--color_11));--bg-gradient:none;}#comp-lncmknxg{--bg-overlay-color:transparent;--bg-gradient:none;min-width:320px;}#comp-kn8qsh98{--bg-overlay-color:transparent;--bg-gradient:none;--padding:0px;--margin:0px;--direction:ltr;}#comp-kn8qsh981{--bg-overlay-color:rgb(var(--color_11));--bg-gradient:none;width:100%;--column-width:320px;--column-flex:320;}.TPASection_kn8p04ky {
+				--wix-direction: ltr;
+--layout-headerHeight: 300;
+--layout-type: 1;
+--layout-mainPage-type: 1;
+--layout-mainPage-headerHeight: 100;
+--layout-mainPage-tagTextAlignment: 1;
+--layout-cardSize: 1;
+--layout-tagTextAlignment: 1;
+--layout-postsFeedCommentsCount: 1;
+--layout-forumStructure: 0;
+--settings-postSorting: 1;
+--button-borderRadius: 0;
+--post-borderWidthClassic: 1;
+--post-borderWidthCompact: 1;
+--post-borderWidthLarge: 1;
+--post-borderWidthMedium: 1;
+--post-borderWidthSmall: 1;
+--post-borderRadius: 0;
+--navigation-itemFont: normal normal normal 16px/1.4em poppins-semibold,poppins,sans-serif;
+--post-titleFontFeed: normal normal normal 20px/1.4em poppins-semibold,poppins,sans-serif;
+--post-contentFontFeed: normal normal normal 16px/1.4em poppins-semibold,poppins,sans-serif;
+--button-color: 8,153,77;
+--button-color-rgb: 8,153,77;
+--button-color-opacity: 1;
+--button-linksHashtags: 8,153,77;
+--button-linksHashtags-rgb: 8,153,77;
+--button-linksHashtags-opacity: 1;
+--button-primaryTextColor: 255,255,255;
+--button-primaryTextColor-rgb: 255,255,255;
+--button-primaryTextColor-opacity: 1;
+--button-secondaryTextColor: 8,153,77;
+--button-secondaryTextColor-rgb: 8,153,77;
+--button-secondaryTextColor-opacity: 1;
+--category-backgroundColor-598964cffc2f7b001024f16d: 127,204,247;
+--category-backgroundColor-598964cffc2f7b001024f16d-rgb: 127,204,247;
+--category-backgroundColor-598964cffc2f7b001024f16d-opacity: 1;
+--category-backgroundColor-598964cffc2f7b001024f16e: 127,204,247;
+--category-backgroundColor-598964cffc2f7b001024f16e-rgb: 127,204,247;
+--category-backgroundColor-598964cffc2f7b001024f16e-opacity: 1;
+--category-backgroundColor-598964cffc2f7b001024f16f: 127,204,247;
+--category-backgroundColor-598964cffc2f7b001024f16f-rgb: 127,204,247;
+--category-backgroundColor-598964cffc2f7b001024f16f-opacity: 1;
+--category-backgroundColor-598964cffc2f7b001024f170: 127,204,247;
+--category-backgroundColor-598964cffc2f7b001024f170-rgb: 127,204,247;
+--category-backgroundColor-598964cffc2f7b001024f170-opacity: 1;
+--category-backgroundColor-5be3f175c9183600620b9465: 127,204,247;
+--category-backgroundColor-5be3f175c9183600620b9465-rgb: 127,204,247;
+--category-backgroundColor-5be3f175c9183600620b9465-opacity: 1;
+--category-backgroundColor-5bf139940be09501f1dc7f2a: 127,204,247;
+--category-backgroundColor-5bf139940be09501f1dc7f2a-rgb: 127,204,247;
+--category-backgroundColor-5bf139940be09501f1dc7f2a-opacity: 1;
+--category-overlayColor-598964cffc2f7b001024f16d: 44,44,43,0.3;
+--category-overlayColor-598964cffc2f7b001024f16d-rgb: 44,44,43;
+--category-overlayColor-598964cffc2f7b001024f16d-opacity: 0.3;
+--category-overlayColor-598964cffc2f7b001024f16e: 44,44,43,0.3;
+--category-overlayColor-598964cffc2f7b001024f16e-rgb: 44,44,43;
+--category-overlayColor-598964cffc2f7b001024f16e-opacity: 0.3;
+--category-overlayColor-598964cffc2f7b001024f16f: 0,0,0,0.25;
+--category-overlayColor-598964cffc2f7b001024f16f-rgb: 0,0,0;
+--category-overlayColor-598964cffc2f7b001024f16f-opacity: 0.25;
+--category-overlayColor-598964cffc2f7b001024f170: 44,44,43,0.3;
+--category-overlayColor-598964cffc2f7b001024f170-rgb: 44,44,43;
+--category-overlayColor-598964cffc2f7b001024f170-opacity: 0.3;
+--category-overlayColor-5be3f175c9183600620b9465: 0,0,0,0.25;
+--category-overlayColor-5be3f175c9183600620b9465-rgb: 0,0,0;
+--category-overlayColor-5be3f175c9183600620b9465-opacity: 0.25;
+--category-overlayColor-5bf139940be09501f1dc7f2a: 0,0,0,0.35;
+--category-overlayColor-5bf139940be09501f1dc7f2a-rgb: 0,0,0;
+--category-overlayColor-5bf139940be09501f1dc7f2a-opacity: 0.35;
+--category-textColor-598964cffc2f7b001024f16d: 255,255,255;
+--category-textColor-598964cffc2f7b001024f16d-rgb: 255,255,255;
+--category-textColor-598964cffc2f7b001024f16d-opacity: 1;
+--category-textColor-598964cffc2f7b001024f16e: 255,255,255;
+--category-textColor-598964cffc2f7b001024f16e-rgb: 255,255,255;
+--category-textColor-598964cffc2f7b001024f16e-opacity: 1;
+--category-textColor-598964cffc2f7b001024f16f: 255,255,255;
+--category-textColor-598964cffc2f7b001024f16f-rgb: 255,255,255;
+--category-textColor-598964cffc2f7b001024f16f-opacity: 1;
+--category-textColor-598964cffc2f7b001024f170: 255,255,255;
+--category-textColor-598964cffc2f7b001024f170-rgb: 255,255,255;
+--category-textColor-598964cffc2f7b001024f170-opacity: 1;
+--category-textColor-5be3f175c9183600620b9465: 255,255,255;
+--category-textColor-5be3f175c9183600620b9465-rgb: 255,255,255;
+--category-textColor-5be3f175c9183600620b9465-opacity: 1;
+--category-textColor-5bf139940be09501f1dc7f2a: 255,255,255;
+--category-textColor-5bf139940be09501f1dc7f2a-rgb: 255,255,255;
+--category-textColor-5bf139940be09501f1dc7f2a-opacity: 1;
+--forum-backgroundColor-2b2ad150-cebf-47ae-ac10-c4261222fb07: 127,204,247,0;
+--forum-backgroundColor-2b2ad150-cebf-47ae-ac10-c4261222fb07-rgb: 127,204,247;
+--forum-backgroundColor-2b2ad150-cebf-47ae-ac10-c4261222fb07-opacity: 0;
+--forum-backgroundColor-b09ed3df-92f8-4182-bc8f-e1fa956e7624: 127,204,247,0;
+--forum-backgroundColor-b09ed3df-92f8-4182-bc8f-e1fa956e7624-rgb: 127,204,247;
+--forum-backgroundColor-b09ed3df-92f8-4182-bc8f-e1fa956e7624-opacity: 0;
+--forum-overlayColor-2b2ad150-cebf-47ae-ac10-c4261222fb07: 65,65,65,0;
+--forum-overlayColor-2b2ad150-cebf-47ae-ac10-c4261222fb07-rgb: 65,65,65;
+--forum-overlayColor-2b2ad150-cebf-47ae-ac10-c4261222fb07-opacity: 0;
+--forum-overlayColor-b09ed3df-92f8-4182-bc8f-e1fa956e7624: 65,65,65,0;
+--forum-overlayColor-b09ed3df-92f8-4182-bc8f-e1fa956e7624-rgb: 65,65,65;
+--forum-overlayColor-b09ed3df-92f8-4182-bc8f-e1fa956e7624-opacity: 0;
+--forum-textColor-2b2ad150-cebf-47ae-ac10-c4261222fb07: 65,65,65;
+--forum-textColor-2b2ad150-cebf-47ae-ac10-c4261222fb07-rgb: 65,65,65;
+--forum-textColor-2b2ad150-cebf-47ae-ac10-c4261222fb07-opacity: 1;
+--forum-textColor-b09ed3df-92f8-4182-bc8f-e1fa956e7624: 65,65,65;
+--forum-textColor-b09ed3df-92f8-4182-bc8f-e1fa956e7624-rgb: 65,65,65;
+--forum-textColor-b09ed3df-92f8-4182-bc8f-e1fa956e7624-opacity: 1;
+--header-backgroundColor: 255,255,255;
+--header-backgroundColor-rgb: 255,255,255;
+--header-backgroundColor-opacity: 1;
+--header-notificationBubbleColor: 22,22,22;
+--header-notificationBubbleColor-rgb: 22,22,22;
+--header-notificationBubbleColor-opacity: 1;
+--header-notificationBubbleTextColor: 255,255,255;
+--header-notificationBubbleTextColor-rgb: 255,255,255;
+--header-notificationBubbleTextColor-opacity: 1;
+--header-textColor: 0,0,0;
+--header-textColor-rgb: 0,0,0;
+--header-textColor-opacity: 1;
+--icon-secondaryColor: 22,22,22;
+--icon-secondaryColor-rgb: 22,22,22;
+--icon-secondaryColor-opacity: 1;
+--post-appBackgroundColor: 255,255,255;
+--post-appBackgroundColor-rgb: 255,255,255;
+--post-appBackgroundColor-opacity: 1;
+--post-cardBackgroundColor: 255,255,255;
+--post-cardBackgroundColor-rgb: 255,255,255;
+--post-cardBackgroundColor-opacity: 1;
+--post-cardBorderColor: 0,0,0,0.25;
+--post-cardBorderColor-rgb: 0,0,0;
+--post-cardBorderColor-opacity: 0.25;
+--post-textColor: 0,0,0;
+--post-textColor-rgb: 0,0,0;
+--post-textColor-opacity: 1;
+--header-dividerColor: 0,0,0,0.2;
+--header-dividerColor-rgb: 0,0,0;
+--header-dividerColor-opacity: 0.2;
+--header-descriptionFont: normal normal normal 20px/25px proxima-n-w01-reg,sans-serif;
+--header-descriptionFont-style: normal;
+--header-descriptionFont-variant: normal;
+--header-descriptionFont-weight: normal;
+--header-descriptionFont-size: 20px;
+--header-descriptionFont-line-height: 25px;
+--header-descriptionFont-family: proxima-n-w01-reg,sans-serif;
+--header-descriptionFont-text-decoration: none;
+--header-font: normal normal normal 14px/17px proxima-n-w01-reg,sans-serif;
+--header-font-style: normal;
+--header-font-variant: normal;
+--header-font-weight: normal;
+--header-font-size: 14px;
+--header-font-line-height: 17px;
+--header-font-family: proxima-n-w01-reg,sans-serif;
+--header-font-text-decoration: none;
+--header-titleFont: normal normal normal 50px/1.34em poppins-semibold,poppins,sans-serif;
+--header-titleFont-style: normal;
+--header-titleFont-variant: normal;
+--header-titleFont-weight: normal;
+--header-titleFont-size: 50px;
+--header-titleFont-line-height: 1.34em;
+--header-titleFont-family: poppins-semibold,poppins,sans-serif;
+--header-titleFont-text-decoration: none;
+--post-contentFontClassic: normal normal normal 14px/17px proxima-n-w01-reg,sans-serif;
+--post-contentFontClassic-style: normal;
+--post-contentFontClassic-variant: normal;
+--post-contentFontClassic-weight: normal;
+--post-contentFontClassic-size: 14px;
+--post-contentFontClassic-line-height: 17px;
+--post-contentFontClassic-family: proxima-n-w01-reg,sans-serif;
+--post-contentFontClassic-text-decoration: none;
+--post-contentFontCompact: normal normal normal 12px/15px proxima-n-w01-reg,sans-serif;
+--post-contentFontCompact-style: normal;
+--post-contentFontCompact-variant: normal;
+--post-contentFontCompact-weight: normal;
+--post-contentFontCompact-size: 12px;
+--post-contentFontCompact-line-height: 15px;
+--post-contentFontCompact-family: proxima-n-w01-reg,sans-serif;
+--post-contentFontCompact-text-decoration: none;
+--post-contentFontLarge: normal normal normal 16px/20px proxima-n-w01-reg,sans-serif;
+--post-contentFontLarge-style: normal;
+--post-contentFontLarge-variant: normal;
+--post-contentFontLarge-weight: normal;
+--post-contentFontLarge-size: 16px;
+--post-contentFontLarge-line-height: 20px;
+--post-contentFontLarge-family: proxima-n-w01-reg,sans-serif;
+--post-contentFontLarge-text-decoration: none;
+--post-contentFontMedium: normal normal normal 14px/17px proxima-n-w01-reg,sans-serif;
+--post-contentFontMedium-style: normal;
+--post-contentFontMedium-variant: normal;
+--post-contentFontMedium-weight: normal;
+--post-contentFontMedium-size: 14px;
+--post-contentFontMedium-line-height: 17px;
+--post-contentFontMedium-family: proxima-n-w01-reg,sans-serif;
+--post-contentFontMedium-text-decoration: none;
+--post-contentFontSmall: normal normal normal 14px/17px proxima-n-w01-reg,sans-serif;
+--post-contentFontSmall-style: normal;
+--post-contentFontSmall-variant: normal;
+--post-contentFontSmall-weight: normal;
+--post-contentFontSmall-size: 14px;
+--post-contentFontSmall-line-height: 17px;
+--post-contentFontSmall-family: proxima-n-w01-reg,sans-serif;
+--post-contentFontSmall-text-decoration: none;
+--post-titleFontClassic: normal normal normal 16px/20px proxima-n-w01-reg,sans-serif;
+--post-titleFontClassic-style: normal;
+--post-titleFontClassic-variant: normal;
+--post-titleFontClassic-weight: normal;
+--post-titleFontClassic-size: 16px;
+--post-titleFontClassic-line-height: 20px;
+--post-titleFontClassic-family: proxima-n-w01-reg,sans-serif;
+--post-titleFontClassic-text-decoration: none;
+--post-titleFontCompact: normal normal normal 14px/17px proxima-n-w01-reg,sans-serif;
+--post-titleFontCompact-style: normal;
+--post-titleFontCompact-variant: normal;
+--post-titleFontCompact-weight: normal;
+--post-titleFontCompact-size: 14px;
+--post-titleFontCompact-line-height: 17px;
+--post-titleFontCompact-family: proxima-n-w01-reg,sans-serif;
+--post-titleFontCompact-text-decoration: none;
+--post-titleFontLarge: normal normal normal 20px/25px proxima-n-w01-reg,sans-serif;
+--post-titleFontLarge-style: normal;
+--post-titleFontLarge-variant: normal;
+--post-titleFontLarge-weight: normal;
+--post-titleFontLarge-size: 20px;
+--post-titleFontLarge-line-height: 25px;
+--post-titleFontLarge-family: proxima-n-w01-reg,sans-serif;
+--post-titleFontLarge-text-decoration: none;
+--post-titleFontMedium: normal normal normal 16px/20px proxima-n-w01-reg,sans-serif;
+--post-titleFontMedium-style: normal;
+--post-titleFontMedium-variant: normal;
+--post-titleFontMedium-weight: normal;
+--post-titleFontMedium-size: 16px;
+--post-titleFontMedium-line-height: 20px;
+--post-titleFontMedium-family: proxima-n-w01-reg,sans-serif;
+--post-titleFontMedium-text-decoration: none;
+--post-titleFontSmall: normal normal normal 16px/20px proxima-n-w01-reg,sans-serif;
+--post-titleFontSmall-style: normal;
+--post-titleFontSmall-variant: normal;
+--post-titleFontSmall-weight: normal;
+--post-titleFontSmall-size: 16px;
+--post-titleFontSmall-line-height: 20px;
+--post-titleFontSmall-family: proxima-n-w01-reg,sans-serif;
+--post-titleFontSmall-text-decoration: none;
+--navigation-itemFont-style: normal;
+--navigation-itemFont-variant: normal;
+--navigation-itemFont-weight: normal;
+--navigation-itemFont-size: 16px;
+--navigation-itemFont-line-height: 1.4em;
+--navigation-itemFont-family: poppins-semibold,poppins,sans-serif;
+--navigation-itemFont-text-decoration: none;
+--post-titleFontFeed-style: normal;
+--post-titleFontFeed-variant: normal;
+--post-titleFontFeed-weight: normal;
+--post-titleFontFeed-size: 20px;
+--post-titleFontFeed-line-height: 1.4em;
+--post-titleFontFeed-family: poppins-semibold,poppins,sans-serif;
+--post-titleFontFeed-text-decoration: none;
+--post-contentFontFeed-style: normal;
+--post-contentFontFeed-variant: normal;
+--post-contentFontFeed-weight: normal;
+--post-contentFontFeed-size: 16px;
+--post-contentFontFeed-line-height: 1.4em;
+--post-contentFontFeed-family: poppins-semibold,poppins,sans-serif;
+--post-contentFontFeed-text-decoration: none;
+				--wix-color-1: 255,255,255;
+--wix-color-2: 191,191,191;
+--wix-color-3: 128,128,128;
+--wix-color-4: 64,64,64;
+--wix-color-5: 0,0,0;
+--wix-color-6: 144,249,194;
+--wix-color-7: 34,243,134;
+--wix-color-8: 8,153,77;
+--wix-color-9: 5,102,51;
+--wix-color-10: 3,51,26;
+--wix-color-11: 208,208,208;
+--wix-color-12: 162,162,162;
+--wix-color-13: 115,115,115;
+--wix-color-14: 69,69,69;
+--wix-color-15: 22,22,22;
+--wix-color-16: 250,253,252;
+--wix-color-17: 244,251,249;
+--wix-color-18: 153,218,199;
+--wix-color-19: 66,181,148;
+--wix-color-20: 33,91,74;
+--wix-color-21: 215,235,141;
+--wix-color-22: 170,205,36;
+--wix-color-23: 127,154,27;
+--wix-color-24: 85,103,18;
+--wix-color-25: 42,51,9;
+--wix-color-26: 255,255,255;
+--wix-color-27: 0,0,0;
+--wix-color-28: 191,191,191;
+--wix-color-29: 128,128,128;
+--wix-color-30: 64,64,64;
+--wix-color-31: 8,153,77;
+--wix-color-32: 170,205,36;
+--wix-color-33: 244,251,249;
+--wix-color-34: 5,102,51;
+--wix-color-35: 0,0,0;
+--wix-color-36: 0,0,0;
+--wix-color-37: 64,64,64;
+--wix-color-38: 8,153,77;
+--wix-color-39: 8,153,77;
+--wix-color-40: 255,255,255;
+--wix-color-41: 255,255,255;
+--wix-color-42: 8,153,77;
+--wix-color-43: 8,153,77;
+--wix-color-44: 128,128,128;
+--wix-color-45: 128,128,128;
+--wix-color-46: 255,255,255;
+--wix-color-47: 255,255,255;
+--wix-color-48: 8,153,77;
+--wix-color-49: 8,153,77;
+--wix-color-50: 8,153,77;
+--wix-color-51: 8,153,77;
+--wix-color-52: 255,255,255;
+--wix-color-53: 255,255,255;
+--wix-color-54: 128,128,128;
+--wix-color-55: 128,128,128;
+--wix-font-Title: normal normal normal 22px/1.41em poppins-semibold,poppins,sans-serif;
+--wix-font-Title-style: normal;
+--wix-font-Title-variant: normal;
+--wix-font-Title-weight: normal;
+--wix-font-Title-size: 22px;
+--wix-font-Title-line-height: 1.41em;
+--wix-font-Title-family: poppins-semibold,poppins,sans-serif;
+--wix-font-Title-text-decoration: none;
+--wix-font-Menu: normal normal normal 14px/1.79em poppins-extralight,poppins,sans-serif;
+--wix-font-Menu-style: normal;
+--wix-font-Menu-variant: normal;
+--wix-font-Menu-weight: normal;
+--wix-font-Menu-size: 14px;
+--wix-font-Menu-line-height: 1.79em;
+--wix-font-Menu-family: poppins-extralight,poppins,sans-serif;
+--wix-font-Menu-text-decoration: none;
+--wix-font-Page-title: normal normal normal 28px/1.375em poppins-semibold,poppins,sans-serif;
+--wix-font-Page-title-style: normal;
+--wix-font-Page-title-variant: normal;
+--wix-font-Page-title-weight: normal;
+--wix-font-Page-title-size: 28px;
+--wix-font-Page-title-line-height: 1.375em;
+--wix-font-Page-title-family: poppins-semibold,poppins,sans-serif;
+--wix-font-Page-title-text-decoration: none;
+--wix-font-Heading-XL: normal normal normal 88px/1.2em poppins-semibold,poppins,sans-serif;
+--wix-font-Heading-XL-style: normal;
+--wix-font-Heading-XL-variant: normal;
+--wix-font-Heading-XL-weight: normal;
+--wix-font-Heading-XL-size: 88px;
+--wix-font-Heading-XL-line-height: 1.2em;
+--wix-font-Heading-XL-family: poppins-semibold,poppins,sans-serif;
+--wix-font-Heading-XL-text-decoration: none;
+--wix-font-Heading-L: normal normal normal 72px/1.25em poppins-semibold,poppins,sans-serif;
+--wix-font-Heading-L-style: normal;
+--wix-font-Heading-L-variant: normal;
+--wix-font-Heading-L-weight: normal;
+--wix-font-Heading-L-size: 72px;
+--wix-font-Heading-L-line-height: 1.25em;
+--wix-font-Heading-L-family: poppins-semibold,poppins,sans-serif;
+--wix-font-Heading-L-text-decoration: none;
+--wix-font-Heading-M: normal normal normal 50px/1.34em poppins-semibold,poppins,sans-serif;
+--wix-font-Heading-M-style: normal;
+--wix-font-Heading-M-variant: normal;
+--wix-font-Heading-M-weight: normal;
+--wix-font-Heading-M-size: 50px;
+--wix-font-Heading-M-line-height: 1.34em;
+--wix-font-Heading-M-family: poppins-semibold,poppins,sans-serif;
+--wix-font-Heading-M-text-decoration: none;
+--wix-font-Heading-S: normal normal normal 40px/1.35em poppins-semibold,poppins,sans-serif;
+--wix-font-Heading-S-style: normal;
+--wix-font-Heading-S-variant: normal;
+--wix-font-Heading-S-weight: normal;
+--wix-font-Heading-S-size: 40px;
+--wix-font-Heading-S-line-height: 1.35em;
+--wix-font-Heading-S-family: poppins-semibold,poppins,sans-serif;
+--wix-font-Heading-S-text-decoration: none;
+--wix-font-Body-L: normal normal normal 20px/1.67em poppins-semibold,poppins,sans-serif;
+--wix-font-Body-L-style: normal;
+--wix-font-Body-L-variant: normal;
+--wix-font-Body-L-weight: normal;
+--wix-font-Body-L-size: 20px;
+--wix-font-Body-L-line-height: 1.67em;
+--wix-font-Body-L-family: poppins-semibold,poppins,sans-serif;
+--wix-font-Body-L-text-decoration: none;
+--wix-font-Body-M: normal normal normal 18px/1.75em poppins-semibold,poppins,sans-serif;
+--wix-font-Body-M-style: normal;
+--wix-font-Body-M-variant: normal;
+--wix-font-Body-M-weight: normal;
+--wix-font-Body-M-size: 18px;
+--wix-font-Body-M-line-height: 1.75em;
+--wix-font-Body-M-family: poppins-semibold,poppins,sans-serif;
+--wix-font-Body-M-text-decoration: none;
+--wix-font-Body-S: normal normal normal 15px/1.875em poppins-extralight,poppins,sans-serif;
+--wix-font-Body-S-style: normal;
+--wix-font-Body-S-variant: normal;
+--wix-font-Body-S-weight: normal;
+--wix-font-Body-S-size: 15px;
+--wix-font-Body-S-line-height: 1.875em;
+--wix-font-Body-S-family: poppins-extralight,poppins,sans-serif;
+--wix-font-Body-S-text-decoration: none;
+--wix-font-Body-XS: normal normal normal 14px/1.79em poppins-extralight,poppins,sans-serif;
+--wix-font-Body-XS-style: normal;
+--wix-font-Body-XS-variant: normal;
+--wix-font-Body-XS-weight: normal;
+--wix-font-Body-XS-size: 14px;
+--wix-font-Body-XS-line-height: 1.79em;
+--wix-font-Body-XS-family: poppins-extralight,poppins,sans-serif;
+--wix-font-Body-XS-text-decoration: none;
+--wix-font-LIGHT: normal normal normal 12px/1.4em HelveticaNeueW01-45Ligh;
+--wix-font-LIGHT-style: normal;
+--wix-font-LIGHT-variant: normal;
+--wix-font-LIGHT-weight: normal;
+--wix-font-LIGHT-size: 12px;
+--wix-font-LIGHT-line-height: 1.4em;
+--wix-font-LIGHT-family: HelveticaNeueW01-45Ligh;
+--wix-font-LIGHT-text-decoration: none;
+--wix-font-MEDIUM: normal normal normal 12px/1.4em HelveticaNeueW01-55Roma;
+--wix-font-MEDIUM-style: normal;
+--wix-font-MEDIUM-variant: normal;
+--wix-font-MEDIUM-weight: normal;
+--wix-font-MEDIUM-size: 12px;
+--wix-font-MEDIUM-line-height: 1.4em;
+--wix-font-MEDIUM-family: HelveticaNeueW01-55Roma;
+--wix-font-MEDIUM-text-decoration: none;
+--wix-font-STRONG: normal normal normal 12px/1.4em HelveticaNeueW01-65Medi;
+--wix-font-STRONG-style: normal;
+--wix-font-STRONG-variant: normal;
+--wix-font-STRONG-weight: normal;
+--wix-font-STRONG-size: 12px;
+--wix-font-STRONG-line-height: 1.4em;
+--wix-font-STRONG-family: HelveticaNeueW01-65Medi;
+--wix-font-STRONG-text-decoration: none;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.TPASection_kn8p04ky .hYA8Hd{float:left}

@@ -1,3 +1,13 @@
+# Pemulihan tampilan asli
+
+Tampilan awal yang didesain ulang telah diganti dengan HTML dan CSS asli tiap halaman. Tersedia 121 rute desktop dan 120 versi mobile dari sumber publik sekolah; versi mobile yang tidak tersedia memakai rute desktop. Header, footer, warna, tipografi, teks dan posisi gambar mengikuti dokumen sumber.
+
+Menu, slideshow beranda dan testimoni, 8 album/58 foto, pemutaran video dan pencarian diaktifkan dengan adapter GPT Sites. Akun, formulir pendaftaran, pemesanan, penyimpanan dokumen dan pengelolaan tetap memakai backend GPT Sites yang terlindungi. Ini bukan pemindahan kode privat, akun, riwayat chat, data pemesanan, atau integrasi internal Wix. Formulir backend dan sebagian kontrol dinamis diadaptasi, sehingga tidak dinyatakan identik piksel untuk seluruh keadaan interaktif.
+
+Pemeriksaan browser mencakup beranda, Pre-School, galeri, menu ponsel, slideshow dan tampilan formulir. Data pendaftar dan binding penyimpanan tidak diubah.
+
+---
+
 # Pembaruan galeri, pendaftaran, dan pemesanan
 
 Pembaruan 12 November 2026. Bagian ini menggantikan batasan galeri/pendaftaran/pemesanan pada observasi awal di bawah.
