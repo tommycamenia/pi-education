@@ -22,12 +22,13 @@ declare global {
 declare namespace VinextRouteTypes {
   type PageRoute = never;
   type LayoutRoute = "/";
-  type RouteHandlerRoute = "/[[...path]]" | "/api/files" | "/api/requests";
-  type AppRoute = "/" | "/[[...path]]" | "/api/files" | "/api/requests";
+  type RouteHandlerRoute = "/[[...path]]" | "/api/chat" | "/api/files" | "/api/requests";
+  type AppRoute = "/" | "/[[...path]]" | "/api/chat" | "/api/files" | "/api/requests";
 
   interface ParamMap {
     "/": {};
     "/[[...path]]": { path?: string[]; };
+    "/api/chat": {};
     "/api/files": {};
     "/api/requests": {};
   }
